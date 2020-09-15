@@ -1,5 +1,5 @@
 # MathematicalAnalysis
-Just notes from my Mathematical Analysis Course.
+数分课记的笔记嘿嘿。从12.4“隐函数存在定理”开始。
 
 小伙伴们如不嫌弃可以看看呀。本来是自己上课记的笔记，突发奇想就公开吧大家都可以看看。初次使用GitHub可能不大熟练哈哈，多多包容。
 
